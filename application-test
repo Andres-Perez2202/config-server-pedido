@@ -7,7 +7,7 @@ spring:
     mongodb:
       database: ms_pedido
       host: localhost
-      port: 27018
+      port: 27017
   jpa:
     hibernate:
       ddl-auto: update
